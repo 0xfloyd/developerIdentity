@@ -49,7 +49,7 @@ state = {
 
     onClick={(e) => {
       e.preventDefault();
-      window.open('https://github.com/MugheesMb'); /// <==  link your github URL with this one   
+      window.open('https://github.com/0xfloyd'); /// <==  link your github URL with this one   
       }}
 > <i className="cib-github"></i>
     { ' '}Github</button>

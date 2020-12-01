@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from "react-scroll";
-import  { ReactComponent as Log } from './log.svg';
+import  { ReactComponent as Log } from './valknut.svg';
 
 import './navbar.scss';
 

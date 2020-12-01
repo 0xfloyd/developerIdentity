@@ -9,17 +9,17 @@ export const sampleData = [
     },
     {
         id: '2',
-        title: 'SASS / SCSS / Responsive web',
+        title: 'SASS / Responsive web',
         icon: 'fab fa-sass',
         percent: 90,
         barloading: 90
     },
     {
         id: '3',
-        title: 'JavaScript / ES7',
+        title: 'JavaScript / ES8',
         icon: 'fab fa-js',
-        percent: 70,
-        barloading: 70
+        percent: 95,
+        barloading: 95
     },
     {
         id: '4',
@@ -32,8 +32,8 @@ export const sampleData = [
         id: '5',
         title: 'Node.Js / Express.JS',
         icon: 'fab fa-node-js fa-spin',
-        percent: 60,
-        barloading: 60
+        percent: 80,
+        barloading: 80
     },
     {
         id: '6',
@@ -44,25 +44,32 @@ export const sampleData = [
     },
     {
         id: '7',
-        title: 'Stripe Payment',
-        icon: 'fab fa-stripe-s fa-spin',
+        title: 'Laravel',
+        icon: 'fab fa-laravel fa-spin',
         percent: 99,
         barloading: 98
     },
     {
         id: '8',
-        title: 'Firebase / Firestore / Authentication',
-        icon: 'fab cib-firebase',
+        title: 'Python / Django / Mongo',
+        icon: 'fab fa-python fa-spin',
         percent: 99,
         barloading: 98
     },
     {
         id: '9',
-        title: 'GraphQl',
-        icon: 'fab cib-graphql fa-spin',
-        percent: 33,
-        barloading: 30
+        title: 'VUE.js',
+        icon: 'fab fa-vuejs fa-spin',
+        percent: 75,
+        barloading: 75
     },
    
+    {
+        id: '10',
+        title: 'Linux',
+        icon: 'fab fa-linux',           
+        percent: 95,          
+        barloading:95
+    },
 
 ];

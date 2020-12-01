@@ -13,16 +13,16 @@ const Main = () => {
          <SV className='sv' />
           
           <div className='writ' >
-          <span style={{color:'white'  }} className='hy' > Hey, </span> 
-         <span style={{color:'#E6E7E8'  }} className='hy' > I' m Your name.</span>  <br/> 
+          <span style={{color:'white'  }} className='hy' > As-salamu alaykum :) </span>   <br/> 
+         <span style={{color:'#E6E7E8'  }} className='hy' > I'm Muhammad Ahmad.</span>  <br/> 
          <br/>
-         <span style={{ color: ' #DCE5E7'}} className='senior' >Senior Web Developer.</span>
+         <span style={{ color: ' #DCE5E7'}} className='senior' >Software Engineer.</span>
          <br/>
         
           <ReactRotatingText  
           className='blink'
        
-          items={['I love to create.',]}
+          items={['I love to create.','Full of vivid imaginations.','Keen on learning.','Love learning new stuff']}
                               color={'grey'}
                               typingInterval ={20   }
                               pause ={2000}

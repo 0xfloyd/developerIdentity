@@ -13,17 +13,17 @@ const Footer = () => {
                     <h3 className='touchtext2' >just say hello.</h3>
                     <p  style={{width: '100%'}} >Feel free to get in touch with me. I am always open to discussing new projects, creative ideas or opportunities to be part of your visions.</p>
                     <p  >Need help?</p>
-    <span className="far fa-envelope"  >{ '   ' }write your email here</span> 
+    <span className="far fa-envelope"  >{ ' jjfap02@gmail.com  ' }</span> 
 
 
 
                       <p className='mt2'  >Feel like talking ?</p>
                    
-       <span className="fab fa-whatsapp "  >{ '   '  }  write your number here</span> 
+       <span className="fab fa-whatsapp "  >{ ' +201275777856  '  }</span> 
    <p className='mt2'  > Want to Hire me?</p>
-       <span    className="fab fa-linkedin"     >{ '         ' } put your linkdin link here</span>
+       <span    className="fab fa-linkedin"     >{ '   https://www.linkedin.com/in/0xf10yd/   ' }</span>
 
-       <span    className="fab fa-facebook"     >{ '         ' } put your facebook link here</span>
+       <span    className="fab fa-facebook"     >{ '    https://www.facebook.com/Bx1337     ' }</span>
 
        
        
@@ -36,7 +36,7 @@ const Footer = () => {
       
 
         <p >
-        Made with<span role="img" aria-label="heart">❤️ </span> by MUGY
+        Made with <span role="img" aria-label="heart">❤️ </span> by the bluething
             </p>            
         </div>
         </div>
